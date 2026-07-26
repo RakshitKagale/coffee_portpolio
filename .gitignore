@@ -1,0 +1,26 @@
+# Frontend (React / Vite)
+coffee-portfolio/node_modules/
+coffee-portfolio/dist/
+coffee-portfolio/.vite/
+coffee-portfolio/npm-debug.log*
+coffee-portfolio/yarn-debug.log*
+coffee-portfolio/yarn-error.log*
+
+# Backend (Java / Gradle)
+coffee-backend/.gradle/
+coffee-backend/build/
+coffee-backend/out/
+coffee-backend/bin/
+
+# Local configuration files
+.DS_Store
+Thumbs.db
+*.local
+*.log
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
